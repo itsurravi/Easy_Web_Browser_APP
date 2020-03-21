@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Easy Web Browser</string>
+    <string name="check_connection">Internet is not Connected</string>
+</resources>
